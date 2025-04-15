@@ -13,17 +13,17 @@ Table of content
 2- Data Pre-processing
 3- Data Exploring
 4- Data Splitting
-1.Split the data
+   A.Split the data
 5- Model training
-1.Random Forest
-2.Logistic regression
-3.Neural Network
+   A.Random Forest
+   B.Logistic regression
+   C.Neural Network
 6- Model Evaluation
-1.Accuracy
-2.F1 Score
-3.Recall
-4.Precision
-5.Confusion Matrix
+   A.Accuracy
+   B.F1 Score
+   C.Recall
+   D.Precision
+   E.Confusion Matrix
 7- Model Comparison
 
 RESULTS:
