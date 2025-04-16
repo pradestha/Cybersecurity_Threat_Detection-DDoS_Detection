@@ -62,5 +62,8 @@ Neural Network Confusion Matrix
 Reciever Operating Characteristic(ROC) Curve for all models:
 ![Screenshot 2025-04-15 214412](https://github.com/user-attachments/assets/4593c5ea-4f1f-4f90-9774-7745586504fa)
 
+Research paper link:
+https://drive.google.com/file/d/1n960CRyZOSJfCSDMNWiNiG4eghnFTFkq/view?usp=drive_link
+
 
 
